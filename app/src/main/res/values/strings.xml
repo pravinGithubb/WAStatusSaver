@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name" translatable="false">WASS</string>
+
+    <!--sliding navigation-->
+    <string name="srn_drawer_open" translatable="false">Open</string>
+    <string name="srn_drawer_close" translatable="false">Close</string>
+
+    <string name="srn_ex_no_menu_view" translatable="false">No view for menu provided. You must either call .withMenuView(View) or pass a valid resource id to .withMenuLayout(int)</string>
+    <string name="srn_ex_bad_content_view" translatable="false">Your content view must contain exactly one child. Make sure you call inject() after setContentView().</string>
+
+    <string name="whatsapp_notification_listener_service">WhatsApp Message Recover</string>
+    <string name="media_observer_service">Media Observer Service</string>
+    <string name="whatsapp_deleted_msg">Whatsapp Deleted Messages</string>
+    <string name="whatsapp_deleted_images">Whatsapp Deleted Images</string>
+    <string name="deleted_record_not_available">Deleted record not available.\nNote:\nOnly Deleted Messages\nare Saved</string>
+    <string name="deleted_record_note">Note:</string>
+    <string name="deleted_record_note_desc">Only Deleted Messages\nare Saved</string>
+
+    <string name="deleted_permission">Click on this button and Allow permission to access your deleted record</string>
+    <string name="notification_permission_msg">Need notification permission for message recovery, without permission can\'t recover message.</string>
+    <string name="storage_permission_msg">Need Storage permission for saving status, without permission can\'t save status.</string>
+    <string name="notification_permission_retry">Allow</string>
+    <string name="notification_permission_deny">Deny</string>
+
+
+    <string name="recent_status">Recent Status</string>
+    <string name="saved_status">Saved Status</string>
+    <string name="dmsg">Deleted Message</string>
+    <string name="wapp">WhatsApp</string>
+    <string name="wa_web">WA Web</string>
+    <string name="d_chat">Direct Chat</string>
+    <string name="wbapp">WA Business</string>
+    <string name="f_font">Fancy Font</string>
+    <string name="fancy" translatable="false">Fancy</string>
+    <string name="prettify" translatable="false">Prettify</string>
+    <string name="emoji" translatable="false">Emoji</string>
+    <string name="edit_text_value">Enter text here</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="recoverImages">Restore File</string>
+
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="more_app">More App</string>
+    <string name="tap_to_open">Tap to open</string>
+    <string name="whatsapp_business">Whatsapp Business</string>
+    <string name="select_all">Select All</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="photos">Photos</string>
+    <string name="saved">Saved</string>
+    <string name="videos">Videos</string>
+    <string name="share">Share</string>
+    <string name="repost">Repost</string>
+    <string name="exit_alert">Press back again to Exit</string>
+    <string name="english" translatable="false">English</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="arabic" translatable="false">العربية</string>
+    <string name="delete_error">Couldn\'t delete some files</string>
+    <string name="delete_success">Deleted successfully</string>
+    <string name="save_error">Couldn\'t save some files</string>
+    <string name="save_success">All Status Are Saved Successfully</string>
+    <string name="delete_alert">Are you sure , You want to delete selected files?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">CONFIRM....</string>
+    <string name="storage_permission">Storage Permission Required</string>
+
+    <string name="del_status">Are you sure, You Want To Delete?</string>
+    <string name="saved_success">Status saved successfully</string>
+
+    <!--steps-->
+    <string name="how_to_use">How to use?</string>
+    <string name="how_to_usePermission">How to use? Click Here</string>
+    <string name="step_1">Step 1</string>
+    <string name="first_step">Tap on WhatsApp icon.</string>
+    <string name="step_2">Step 2</string>
+    <string name="second_step">Click to open Whatsapp or WA Business button.</string>
+    <string name="step_3">Step 3</string>
+    <string name="step_three">First you have to see Status from Whatsapp or WA Business.</string>
+    <string name="step_4">Step 4</string>
+    <string name="step_four">Once you seen status in Whatsapp or WA Business then open this application and Pull Down to refresh status, Your seen status will be here in this app and from here you can Download and Share.</string>
+    <string name="status_not_available">Status not available.</string>
+
+    <string name="wapp_permission">Click on this button and Allow permission to access your status</string>
+    <string name="allow_storage_access">Allow storage access</string>
+    <string name="send">Send</string>
+    <string name="enter_your_message">Enter your message \n(Optional)</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="select_country">Select country and Enter Mobile Number.</string>
+
+    <string name="toast_saved_to_downloads_folder" translatable="false">Saved to downloads folder</string>
+    <string name="notification_title_tap_to_open" translatable="false">Tap to open</string>
+    <string name="notification_text_saved_as" translatable="false">Saved as %s</string>
+
+    <!--admob ids-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_openads" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+
+    <!--ironSource app ad ids-->
+    <string name="iron_ad_id" translatable="false">106c413b9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

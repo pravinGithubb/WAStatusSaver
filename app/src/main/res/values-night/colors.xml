@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/main_bg_color</color>
+    <color name="purple_500">@color/main_bg_color</color>
+    <color name="purple_700">@color/main_bg_color</color>
+    <color name="teal_200">@color/main_bg_color</color>
+    <color name="teal_700">@color/main_bg_color</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="deleted">#ef5350</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="selectedList">#B6B6B4</color>
+
+    <color name="switchUnCheckThumb">#A1A1A2</color>
+    <color name="switchUnCheckTrack">#DADCDD</color>
+
+    <color name="switchCheckThumb">#1DB06F</color>
+    <color name="switchCheckTrack">#50525C</color>
+
+    <color name="selectionBlue">#4FB6EC</color>
+    <color name="chatColor">#FFFFFF</color>
+    <color name="main_bg_color">#16242E</color>
+    <color name="thumb_color">#1DB06F</color>
+    <color name="tab_txt_press">#16242E</color>
+    <color name="track_color">#50525C</color>
+    <color name="home_top_start_color">#283D4C</color>
+    <color name="home_top_end_color">#283D4C</color>
+    <color name="round_btn_bg">#80000000</color>
+    <color name="popup_bg">#16242E</color>
+    <color name="popup_btn_color">#1F313D</color>
+    <color name="text_bg_pre">#1F313D</color>
+    <color name="pre_icon_color">#1F313D</color>
+</resources>
